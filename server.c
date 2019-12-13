@@ -1,7 +1,5 @@
 
 /**
-	Karimshan Nawaz
-	11305835
 	Lab 2 CSCE 3530
 	Proxy server that connects to the website, sends an http request,
 	and forwards that request to the client.
