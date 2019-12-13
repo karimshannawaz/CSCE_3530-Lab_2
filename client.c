@@ -1,7 +1,5 @@
 
 /**
-	Karimshan Nawaz
-	11305835
 	Lab 2 CSCE 3530
 	Client that connects to the proxy server.
 
