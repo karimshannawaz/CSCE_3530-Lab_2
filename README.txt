@@ -1,5 +1,5 @@
 
-- Karimshan Nawaz (11305835)
+
 - CSCE 3530 Lab 2: Proxy server that requests webpage content and sends it back to the client that requested it.
 		   FURTHERMORE: Also keeps a cached record of up to five webpages and has a blacklist file
 		   that blocks webpages and informs the client that the requested webpage is blocked.
@@ -67,5 +67,4 @@ If you enter those links into my program and check the cached files, you will se
 the five most recent pages and deletes the older ones.
 
 
-- Karimshan Nawaz
 
